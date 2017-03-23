@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    hello-node-igor
+  host:    hello-node-igor
   memory:  128M
